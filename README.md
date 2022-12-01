@@ -1,8 +1,8 @@
 <h1 align="center">Hello! 👋, I'm Himanshu Goyal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">~ A passionate Software Engineer from India ~</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-- 🌱 I’m currently learning **MERN**
-
+- 🌱 I’m currently learning **MERN**<br>
+- 👍I have a good knowledge of **Data Structures and Algorithms**<br>
 - 📫 How to reach me **himanshu1887.be20@chitkara.edu.in**
 
 <h3 align="left">Connect with me:</h3>
